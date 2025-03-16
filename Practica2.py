@@ -1,4 +1,4 @@
-variable1='Comillas simples'
-variable2="comillas dobles"
-expliracion='"print()" se utiliza para imprimir valores en la consola'
-print(expliracion)
+variable1='Comillas simples' #Declarar variable 1
+variable2="comillas dobles"  #Declarar variable 2
+expliracion='"print()" se utiliza para imprimir valores en la consola'  #Declarar variable de la explicacion
+print(expliracion) #Imprimir mensaje
